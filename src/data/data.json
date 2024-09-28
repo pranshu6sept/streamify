@@ -1,0 +1,48 @@
+{
+    "userGrowth": [
+      { "month": "Jan", "totalUsers": 3200000, "activeUsers": 2400000 },
+      { "month": "Feb", "totalUsers": 3400000, "activeUsers": 2600000 },
+      { "month": "Mar", "totalUsers": 3600000, "activeUsers": 2800000 },
+      { "month": "Apr", "totalUsers": 3800000, "activeUsers": 2900000 },
+      { "month": "May", "totalUsers": 4000000, "activeUsers": 3000000 },
+      { "month": "Jun", "totalUsers": 4100000, "activeUsers": 3100000 },
+      { "month": "Jul", "totalUsers": 4200000, "activeUsers": 3150000 },
+      { "month": "Aug", "totalUsers": 4300000, "activeUsers": 3200000 },
+      { "month": "Sep", "totalUsers": 4400000, "activeUsers": 3250000 },
+      { "month": "Oct", "totalUsers": 4500000, "activeUsers": 3300000 },
+      { "month": "Nov", "totalUsers": 4600000, "activeUsers": 3350000 },
+      { "month": "Dec", "totalUsers": 4700000, "activeUsers": 3400000 }
+    ],
+    "revenueDistribution": [
+      { "name": "Subscriptions", "value": 16000000 },
+      { "name": "Advertisements", "value": 3000000 },
+      { "name": "Merchandise", "value": 500000 },
+      { "name": "Live Events", "value": 500000 }
+    ],
+    "genrePopularity": [
+      { "genre": "Pop", "popularity": 30 },
+      { "genre": "Hip-Hop", "popularity": 25 },
+      { "genre": "Rock", "popularity": 15 },
+      { "genre": "Electronic", "popularity": 10 },
+      { "genre": "R&B", "popularity": 8 },
+      { "genre": "Country", "popularity": 5 },
+      { "genre": "Jazz", "popularity": 3 },
+      { "genre": "Classical", "popularity": 2 },
+      { "genre": "Others", "popularity": 2 }
+    ],
+    "userDemographics": [
+      { "ageGroup": "13-17", "percentage": 15 },
+      { "ageGroup": "18-24", "percentage": 30 },
+      { "ageGroup": "25-34", "percentage": 25 },
+      { "ageGroup": "35-44", "percentage": 15 },
+      { "ageGroup": "45-54", "percentage": 10 },
+      { "ageGroup": "55+", "percentage": 5 }
+    ],
+    "deviceUsage": [
+      { "device": "Smartphone", "percentage": 60 },
+      { "device": "Desktop", "percentage": 20 },
+      { "device": "Tablet", "percentage": 10 },
+      { "device": "Smart Speaker", "percentage": 5 },
+      { "device": "Others", "percentage": 5 }
+    ]
+}
