@@ -1,11 +1,11 @@
-import { createSlice } from '@reduxjs/toolkit';
+import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
   topSongs: [],
 };
 
 export const songSlice = createSlice({
-  name: 'song',
+  name: "song",
   initialState,
   reducers: {
     setTopSongs: (state, action) => {

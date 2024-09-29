@@ -1,52 +1,340 @@
 {
-    "recentStreams": [
-    { "songName": "Shape of You", "artist": "Ed Sheeran", "dateStreamed": "2024-09-27", "streamCount": 1200, "userId": "user456" },
-    { "songName": "Dance Monkey", "artist": "Tones and I", "dateStreamed": "2024-09-27", "streamCount": 1000, "userId": "user789" },
-    { "songName": "Someone You Loved", "artist": "Lewis Capaldi", "dateStreamed": "2024-09-27", "streamCount": 950, "userId": "user101" },
-    { "songName": "Rockstar", "artist": "Post Malone", "dateStreamed": "2024-09-27", "streamCount": 900, "userId": "user202" },
-    { "songName": "Stay", "artist": "The Kid LAROI & Justin Bieber", "dateStreamed": "2024-09-26", "streamCount": 850, "userId": "user303" },
-    { "songName": "Watermelon Sugar", "artist": "Harry Styles", "dateStreamed": "2024-09-26", "streamCount": 800, "userId": "user404" },
-    { "songName": "Levitating", "artist": "Dua Lipa", "dateStreamed": "2024-09-26", "streamCount": 750, "userId": "user505" },
-    { "songName": "Bad Guy", "artist": "Billie Eilish", "dateStreamed": "2024-09-26", "streamCount": 700, "userId": "user606" },
-    { "songName": "Mood", "artist": "24kGoldn ft. Iann Dior", "dateStreamed": "2024-09-26", "streamCount": 650, "userId": "user707" },
-    { "songName": "Drivers License", "artist": "Olivia Rodrigo", "dateStreamed": "2024-09-25", "streamCount": 600, "userId": "user808" },
-    { "songName": "Positions", "artist": "Ariana Grande", "dateStreamed": "2024-09-25", "streamCount": 550, "userId": "user909" },
-    { "songName": "Starboy", "artist": "The Weeknd", "dateStreamed": "2024-09-25", "streamCount": 520, "userId": "user110" },
-    { "songName": "Uptown Funk", "artist": "Mark Ronson ft. Bruno Mars", "dateStreamed": "2024-09-25", "streamCount": 510, "userId": "user111" },
-    { "songName": "Don't Start Now", "artist": "Dua Lipa", "dateStreamed": "2024-09-25", "streamCount": 500, "userId": "user112" },
-    { "songName": "Shake It Off", "artist": "Taylor Swift", "dateStreamed": "2024-09-24", "streamCount": 490, "userId": "user113" },
-    { "songName": "Sunflower", "artist": "Post Malone & Swae Lee", "dateStreamed": "2024-09-24", "streamCount": 480, "userId": "user114" },
-    { "songName": "Circles", "artist": "Post Malone", "dateStreamed": "2024-09-24", "streamCount": 470, "userId": "user115" },
-    { "songName": "Closer", "artist": "The Chainsmokers ft. Halsey", "dateStreamed": "2024-09-24", "streamCount": 460, "userId": "user116" },
-    { "songName": "7 Rings", "artist": "Ariana Grande", "dateStreamed": "2024-09-24", "streamCount": 450, "userId": "user117" },
-    { "songName": "One Dance", "artist": "Drake ft. Wizkid & Kyla", "dateStreamed": "2024-09-23", "streamCount": 440, "userId": "user118" },
-    { "songName": "Thinking Out Loud", "artist": "Ed Sheeran", "dateStreamed": "2024-09-23", "streamCount": 430, "userId": "user119" },
-    { "songName": "Havana", "artist": "Camila Cabello ft. Young Thug", "dateStreamed": "2024-09-23", "streamCount": 420, "userId": "user120" },
-    { "songName": "Sugar", "artist": "Maroon 5", "dateStreamed": "2024-09-23", "streamCount": 410, "userId": "user121" },
-    { "songName": "Cheap Thrills", "artist": "Sia ft. Sean Paul", "dateStreamed": "2024-09-23", "streamCount": 400, "userId": "user122" },
-    { "songName": "God's Plan", "artist": "Drake", "dateStreamed": "2024-09-22", "streamCount": 390, "userId": "user123" },
-    { "songName": "Señorita", "artist": "Shawn Mendes & Camila Cabello", "dateStreamed": "2024-09-22", "streamCount": 380, "userId": "user124" },
-    { "songName": "Despacito", "artist": "Luis Fonsi & Daddy Yankee ft. Justin Bieber", "dateStreamed": "2024-09-22", "streamCount": 370, "userId": "user125" },
-    { "songName": "Perfect", "artist": "Ed Sheeran", "dateStreamed": "2024-09-22", "streamCount": 360, "userId": "user126" },
-    { "songName": "Believer", "artist": "Imagine Dragons", "dateStreamed": "2024-09-22", "streamCount": 350, "userId": "user127" },
-    { "songName": "Thunder", "artist": "Imagine Dragons", "dateStreamed": "2024-09-21", "streamCount": 340, "userId": "user128" },
-    { "songName": "New Rules", "artist": "Dua Lipa", "dateStreamed": "2024-09-21", "streamCount": 330, "userId": "user129" },
-    { "songName": "Something Just Like This", "artist": "The Chainsmokers & Coldplay", "dateStreamed": "2024-09-21", "streamCount": 320, "userId": "user130" },
-    { "songName": "Lean On", "artist": "Major Lazer & DJ Snake ft. MØ", "dateStreamed": "2024-09-21", "streamCount": 310, "userId": "user131" },
-    { "songName": "Love Yourself", "artist": "Justin Bieber", "dateStreamed": "2024-09-21", "streamCount": 300, "userId": "user132" },
-    { "songName": "Stressed Out", "artist": "Twenty One Pilots", "dateStreamed": "2024-09-20", "streamCount": 290, "userId": "user133" },
-    { "songName": "Photograph", "artist": "Ed Sheeran", "dateStreamed": "2024-09-20", "streamCount": 280, "userId": "user134" },
-    { "songName": "The Hills", "artist": "The Weeknd", "dateStreamed": "2024-09-20", "streamCount": 270, "userId": "user135" },
-    { "songName": "Stitches", "artist": "Shawn Mendes", "dateStreamed": "2024-09-20", "streamCount": 260, "userId": "user136" },
-    { "songName": "Can't Stop the Feeling!", "artist": "Justin Timberlake", "dateStreamed": "2024-09-20", "streamCount": 250, "userId": "user137" },
-    { "songName": "Youngblood", "artist": "5 Seconds of Summer", "dateStreamed": "2024-09-19", "streamCount": 240, "userId": "user138" },
-    { "songName": "Blank Space", "artist": "Taylor Swift", "dateStreamed": "2024-09-19", "streamCount": 230, "userId": "user139" },
-    { "songName": "Chandelier", "artist": "Sia", "dateStreamed": "2024-09-19", "streamCount": 220, "userId": "user140" },
-    { "songName": "Roar", "artist": "Katy Perry", "dateStreamed": "2024-09-19", "streamCount": 210, "userId": "user141" },
-    { "songName": "Counting Stars", "artist": "OneRepublic", "dateStreamed": "2024-09-19", "streamCount": 200, "userId": "user142" },
-    { "songName": "Happier", "artist": "Marshmello & Bastille", "dateStreamed": "2024-09-18", "streamCount": 190, "userId": "user143" },
-    { "songName": "All of Me", "artist": "John Legend", "dateStreamed": "2024-09-18", "streamCount": 180, "userId": "user144" },
-    { "songName": "Faded", "artist": "Alan Walker", "dateStreamed": "2024-09-18", "streamCount": 170, "userId": "user145" },
-    { "songName": "Sorry", "artist": "Justin Bieber", "dateStreamed": "2024-09-18", "streamCount": 160, "userId": "user146" }
+  "recentStreams": [
+    {
+      "songName": "Shape of You",
+      "artist": "Ed Sheeran",
+      "dateStreamed": "2024-09-27",
+      "streamCount": 1200,
+      "userId": "user456"
+    },
+    {
+      "songName": "Dance Monkey",
+      "artist": "Tones and I",
+      "dateStreamed": "2024-09-27",
+      "streamCount": 1000,
+      "userId": "user789"
+    },
+    {
+      "songName": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "dateStreamed": "2024-09-27",
+      "streamCount": 950,
+      "userId": "user101"
+    },
+    {
+      "songName": "Rockstar",
+      "artist": "Post Malone",
+      "dateStreamed": "2024-09-27",
+      "streamCount": 900,
+      "userId": "user202"
+    },
+    {
+      "songName": "Stay",
+      "artist": "The Kid LAROI & Justin Bieber",
+      "dateStreamed": "2024-09-26",
+      "streamCount": 850,
+      "userId": "user303"
+    },
+    {
+      "songName": "Watermelon Sugar",
+      "artist": "Harry Styles",
+      "dateStreamed": "2024-09-26",
+      "streamCount": 800,
+      "userId": "user404"
+    },
+    {
+      "songName": "Levitating",
+      "artist": "Dua Lipa",
+      "dateStreamed": "2024-09-26",
+      "streamCount": 750,
+      "userId": "user505"
+    },
+    {
+      "songName": "Bad Guy",
+      "artist": "Billie Eilish",
+      "dateStreamed": "2024-09-26",
+      "streamCount": 700,
+      "userId": "user606"
+    },
+    {
+      "songName": "Mood",
+      "artist": "24kGoldn ft. Iann Dior",
+      "dateStreamed": "2024-09-26",
+      "streamCount": 650,
+      "userId": "user707"
+    },
+    {
+      "songName": "Drivers License",
+      "artist": "Olivia Rodrigo",
+      "dateStreamed": "2024-09-25",
+      "streamCount": 600,
+      "userId": "user808"
+    },
+    {
+      "songName": "Positions",
+      "artist": "Ariana Grande",
+      "dateStreamed": "2024-09-25",
+      "streamCount": 550,
+      "userId": "user909"
+    },
+    {
+      "songName": "Starboy",
+      "artist": "The Weeknd",
+      "dateStreamed": "2024-09-25",
+      "streamCount": 520,
+      "userId": "user110"
+    },
+    {
+      "songName": "Uptown Funk",
+      "artist": "Mark Ronson ft. Bruno Mars",
+      "dateStreamed": "2024-09-25",
+      "streamCount": 510,
+      "userId": "user111"
+    },
+    {
+      "songName": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "dateStreamed": "2024-09-25",
+      "streamCount": 500,
+      "userId": "user112"
+    },
+    {
+      "songName": "Shake It Off",
+      "artist": "Taylor Swift",
+      "dateStreamed": "2024-09-24",
+      "streamCount": 490,
+      "userId": "user113"
+    },
+    {
+      "songName": "Sunflower",
+      "artist": "Post Malone & Swae Lee",
+      "dateStreamed": "2024-09-24",
+      "streamCount": 480,
+      "userId": "user114"
+    },
+    {
+      "songName": "Circles",
+      "artist": "Post Malone",
+      "dateStreamed": "2024-09-24",
+      "streamCount": 470,
+      "userId": "user115"
+    },
+    {
+      "songName": "Closer",
+      "artist": "The Chainsmokers ft. Halsey",
+      "dateStreamed": "2024-09-24",
+      "streamCount": 460,
+      "userId": "user116"
+    },
+    {
+      "songName": "7 Rings",
+      "artist": "Ariana Grande",
+      "dateStreamed": "2024-09-24",
+      "streamCount": 450,
+      "userId": "user117"
+    },
+    {
+      "songName": "One Dance",
+      "artist": "Drake ft. Wizkid & Kyla",
+      "dateStreamed": "2024-09-23",
+      "streamCount": 440,
+      "userId": "user118"
+    },
+    {
+      "songName": "Thinking Out Loud",
+      "artist": "Ed Sheeran",
+      "dateStreamed": "2024-09-23",
+      "streamCount": 430,
+      "userId": "user119"
+    },
+    {
+      "songName": "Havana",
+      "artist": "Camila Cabello ft. Young Thug",
+      "dateStreamed": "2024-09-23",
+      "streamCount": 420,
+      "userId": "user120"
+    },
+    {
+      "songName": "Sugar",
+      "artist": "Maroon 5",
+      "dateStreamed": "2024-09-23",
+      "streamCount": 410,
+      "userId": "user121"
+    },
+    {
+      "songName": "Cheap Thrills",
+      "artist": "Sia ft. Sean Paul",
+      "dateStreamed": "2024-09-23",
+      "streamCount": 400,
+      "userId": "user122"
+    },
+    {
+      "songName": "God's Plan",
+      "artist": "Drake",
+      "dateStreamed": "2024-09-22",
+      "streamCount": 390,
+      "userId": "user123"
+    },
+    {
+      "songName": "Señorita",
+      "artist": "Shawn Mendes & Camila Cabello",
+      "dateStreamed": "2024-09-22",
+      "streamCount": 380,
+      "userId": "user124"
+    },
+    {
+      "songName": "Despacito",
+      "artist": "Luis Fonsi & Daddy Yankee ft. Justin Bieber",
+      "dateStreamed": "2024-09-22",
+      "streamCount": 370,
+      "userId": "user125"
+    },
+    {
+      "songName": "Perfect",
+      "artist": "Ed Sheeran",
+      "dateStreamed": "2024-09-22",
+      "streamCount": 360,
+      "userId": "user126"
+    },
+    {
+      "songName": "Believer",
+      "artist": "Imagine Dragons",
+      "dateStreamed": "2024-09-22",
+      "streamCount": 350,
+      "userId": "user127"
+    },
+    {
+      "songName": "Thunder",
+      "artist": "Imagine Dragons",
+      "dateStreamed": "2024-09-21",
+      "streamCount": 340,
+      "userId": "user128"
+    },
+    {
+      "songName": "New Rules",
+      "artist": "Dua Lipa",
+      "dateStreamed": "2024-09-21",
+      "streamCount": 330,
+      "userId": "user129"
+    },
+    {
+      "songName": "Something Just Like This",
+      "artist": "The Chainsmokers & Coldplay",
+      "dateStreamed": "2024-09-21",
+      "streamCount": 320,
+      "userId": "user130"
+    },
+    {
+      "songName": "Lean On",
+      "artist": "Major Lazer & DJ Snake ft. MØ",
+      "dateStreamed": "2024-09-21",
+      "streamCount": 310,
+      "userId": "user131"
+    },
+    {
+      "songName": "Love Yourself",
+      "artist": "Justin Bieber",
+      "dateStreamed": "2024-09-21",
+      "streamCount": 300,
+      "userId": "user132"
+    },
+    {
+      "songName": "Stressed Out",
+      "artist": "Twenty One Pilots",
+      "dateStreamed": "2024-09-20",
+      "streamCount": 290,
+      "userId": "user133"
+    },
+    {
+      "songName": "Photograph",
+      "artist": "Ed Sheeran",
+      "dateStreamed": "2024-09-20",
+      "streamCount": 280,
+      "userId": "user134"
+    },
+    {
+      "songName": "The Hills",
+      "artist": "The Weeknd",
+      "dateStreamed": "2024-09-20",
+      "streamCount": 270,
+      "userId": "user135"
+    },
+    {
+      "songName": "Stitches",
+      "artist": "Shawn Mendes",
+      "dateStreamed": "2024-09-20",
+      "streamCount": 260,
+      "userId": "user136"
+    },
+    {
+      "songName": "Can't Stop the Feeling!",
+      "artist": "Justin Timberlake",
+      "dateStreamed": "2024-09-20",
+      "streamCount": 250,
+      "userId": "user137"
+    },
+    {
+      "songName": "Youngblood",
+      "artist": "5 Seconds of Summer",
+      "dateStreamed": "2024-09-19",
+      "streamCount": 240,
+      "userId": "user138"
+    },
+    {
+      "songName": "Blank Space",
+      "artist": "Taylor Swift",
+      "dateStreamed": "2024-09-19",
+      "streamCount": 230,
+      "userId": "user139"
+    },
+    {
+      "songName": "Chandelier",
+      "artist": "Sia",
+      "dateStreamed": "2024-09-19",
+      "streamCount": 220,
+      "userId": "user140"
+    },
+    {
+      "songName": "Roar",
+      "artist": "Katy Perry",
+      "dateStreamed": "2024-09-19",
+      "streamCount": 210,
+      "userId": "user141"
+    },
+    {
+      "songName": "Counting Stars",
+      "artist": "OneRepublic",
+      "dateStreamed": "2024-09-19",
+      "streamCount": 200,
+      "userId": "user142"
+    },
+    {
+      "songName": "Happier",
+      "artist": "Marshmello & Bastille",
+      "dateStreamed": "2024-09-18",
+      "streamCount": 190,
+      "userId": "user143"
+    },
+    {
+      "songName": "All of Me",
+      "artist": "John Legend",
+      "dateStreamed": "2024-09-18",
+      "streamCount": 180,
+      "userId": "user144"
+    },
+    {
+      "songName": "Faded",
+      "artist": "Alan Walker",
+      "dateStreamed": "2024-09-18",
+      "streamCount": 170,
+      "userId": "user145"
+    },
+    {
+      "songName": "Sorry",
+      "artist": "Justin Bieber",
+      "dateStreamed": "2024-09-18",
+      "streamCount": 160,
+      "userId": "user146"
+    }
   ]
 }

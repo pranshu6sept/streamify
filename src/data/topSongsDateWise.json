@@ -1,314 +1,934 @@
 {
-    "topSongsLast30Days": [
-  {
-    "date": "2024-09-27",
-    "songs": [
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 120000 },
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 115000 },
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 110000 },
-      { "name": "Rich Flex", "artist": "Drake & 21 Savage", "streams": 105000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 100000 }
-    ]
-  },
-  {
-    "date": "2024-09-26",
-    "songs": [
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 118000 },
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 116000 },
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 112000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 108000 },
-      { "name": "Rich Flex", "artist": "Drake & 21 Savage", "streams": 104000 }
-    ]
-  },
-  {
-    "date": "2024-09-25",
-    "songs": [
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 122000 },
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 117000 },
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 114000 },
-      { "name": "Rich Flex", "artist": "Drake & 21 Savage", "streams": 109000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 106000 }
-    ]
-  },
-  {
-    "date": "2024-09-24",
-    "songs": [
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 119000 },
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 116000 },
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 113000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 107000 },
-      { "name": "Lift Me Up", "artist": "Rihanna", "streams": 102000 }
-    ]
-  },
-  {
-    "date": "2024-09-23",
-    "songs": [
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 121000 },
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 118000 },
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 114000 },
-      { "name": "Lift Me Up", "artist": "Rihanna", "streams": 108000 },
-      { "name": "Rich Flex", "artist": "Drake & 21 Savage", "streams": 103000 }
-    ]
-  },
-  {
-    "date": "2024-09-22",
-    "songs": [
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 120000 },
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 117000 },
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 113000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 106000 },
-      { "name": "Lift Me Up", "artist": "Rihanna", "streams": 101000 }
-    ]
-  },
-  {
-    "date": "2024-09-21",
-    "songs": [
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 119000 },
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 116000 },
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 112000 },
-      { "name": "Rich Flex", "artist": "Drake & 21 Savage", "streams": 107000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 102000 }
-    ]
-  },
-  {
-    "date": "2024-09-20",
-    "songs": [
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 118000 },
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 115000 },
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 111000 },
-      { "name": "Lift Me Up", "artist": "Rihanna", "streams": 106000 },
-      { "name": "Rich Flex", "artist": "Drake & 21 Savage", "streams": 101000 }
-    ]
-  },
-  {
-    "date": "2024-09-19",
-    "songs": [
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 117000 },
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 114000 },
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 110000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 105000 },
-      { "name": "Lift Me Up", "artist": "Rihanna", "streams": 100000 }
-    ]
-  },
-  {
-    "date": "2024-09-18",
-    "songs": [
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 116000 },
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 113000 },
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 109000 },
-      { "name": "Rich Flex", "artist": "Drake & 21 Savage", "streams": 104000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 99000 }
-    ]
-  },
-  {
-    "date": "2024-09-17",
-    "songs": [
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 115000 },
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 112000 },
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 108000 },
-      { "name": "Lift Me Up", "artist": "Rihanna", "streams": 103000 },
-      { "name": "Rich Flex", "artist": "Drake & 21 Savage", "streams": 98000 }
-    ]
-  },
-  {
-    "date": "2024-09-16",
-    "songs": [
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 114000 },
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 111000 },
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 107000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 102000 },
-      { "name": "Lift Me Up", "artist": "Rihanna", "streams": 97000 }
-    ]
-  },
-  {
-    "date": "2024-09-15",
-    "songs": [
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 113000 },
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 110000 },
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 106000 },
-      { "name": "Rich Flex", "artist": "Drake & 21 Savage", "streams": 101000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 96000 }
-    ]
-  },
-  {
-    "date": "2024-09-14",
-    "songs": [
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 112000 },
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 109000 },
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 105000 },
-      { "name": "Lift Me Up", "artist": "Rihanna", "streams": 100000 },
-      { "name": "Rich Flex", "artist": "Drake & 21 Savage", "streams": 95000 }
-    ]
-  },
-  {
-    "date": "2024-09-13",
-    "songs": [
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 111000 },
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 108000 },
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 104000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 99000 },
-      { "name": "Lift Me Up", "artist": "Rihanna", "streams": 94000 }
-    ]
-  },
-  {
-    "date": "2024-09-12",
-    "songs": [
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 110000 },
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 107000 },
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 103000 },
-      { "name": "Rich Flex", "artist": "Drake & 21 Savage", "streams": 98000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 93000 }
-    ]
-  },
-  {
-    "date": "2024-09-11",
-    "songs": [
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 109000 },
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 106000 },
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 102000 },
-      { "name": "Lift Me Up", "artist": "Rihanna", "streams": 97000 },
-      { "name": "Rich Flex", "artist": "Drake & 21 Savage", "streams": 92000 }
-    ]
-  },
-  {
-    "date": "2024-09-10",
-    "songs": [
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 108000 },
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 105000 },
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 101000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 96000 },
-      { "name": "Lift Me Up", "artist": "Rihanna", "streams": 91000 }
-    ]
-  },
-  {
-    "date": "2024-09-09",
-    "songs": [
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 107000 },
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 104000 },
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 100000 },
-      { "name": "Rich Flex", "artist": "Drake & 21 Savage", "streams": 95000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 90000 }
-    ]
-  },
-  {
-    "date": "2024-09-08",
-    "songs": [
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 106000 },
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 103000 },
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 99000 },
-      { "name": "Lift Me Up", "artist": "Rihanna", "streams": 94000 },
-      { "name": "Rich Flex", "artist": "Drake & 21 Savage", "streams": 89000 }
-    ]
-  },
-  {
-    "date": "2024-09-07",
-    "songs": [
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 105000 },
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 102000 },
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 98000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 93000 },
-      { "name": "Lift Me Up", "artist": "Rihanna", "streams": 88000 }
-    ]
-  },
-  {
-    "date": "2024-09-06",
-    "songs": [
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 104000 },
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 101000 },
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 97000 },
-      { "name": "Rich Flex", "artist": "Drake & 21 Savage", "streams": 92000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 87000 }
-    ]
-  },
-  {
-    "date": "2024-09-05",
-    "songs": [
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 103000 },
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 100000 },
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 96000 },
-      { "name": "Lift Me Up", "artist": "Rihanna", "streams": 91000 },
-      { "name": "Rich Flex", "artist": "Drake & 21 Savage", "streams": 86000 }
-    ]
-  },
-  {
-    "date": "2024-09-04",
-    "songs": [
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 102000 },
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 99000 },
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 95000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 90000 },
-      { "name": "Lift Me Up", "artist": "Rihanna", "streams": 85000 }
-    ]
-  },
-  {
-    "date": "2024-09-03",
-    "songs": [
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 101000 },
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 98000 },
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 94000 },
-      { "name": "Rich Flex", "artist": "Drake & 21 Savage", "streams": 89000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 84000 }
-    ]
-  },
-  {
-    "date": "2024-09-02",
-    "songs": [
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 100000 },
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 97000 },
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 93000 },
-      { "name": "Lift Me Up", "artist": "Rihanna", "streams": 88000 },
-      { "name": "Rich Flex", "artist": "Drake & 21 Savage", "streams": 83000 }
-    ]
-  },
-  {
-    "date": "2024-09-01",
-    "songs": [
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 99000 },
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 96000 },
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 92000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 87000 },
-      { "name": "Lift Me Up", "artist": "Rihanna", "streams": 82000 }
-    ]
-  },
-  {
-    "date": "2024-08-31",
-    "songs": [
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 98000 },
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 95000 },
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 91000 },
-      { "name": "Rich Flex", "artist": "Drake & 21 Savage", "streams": 86000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 81000 }
-    ]
-  },
-  {
-    "date": "2024-08-30",
-    "songs": [
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 97000 },
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 94000 },
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 90000 },
-      { "name": "Lift Me Up", "artist": "Rihanna", "streams": 85000 },
-      { "name": "Rich Flex", "artist": "Drake & 21 Savage", "streams": 80000 }
-    ]
-  },
-  {
-    "date": "2024-08-29",
-    "songs": [
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 96000 },
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 93000 },
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 89000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 84000 },
-      { "name": "Lift Me Up", "artist": "Rihanna", "streams": 79000 }
-    ]
-  },
-  {
-    "date": "2024-08-28",
-    "songs": [
-      { "name": "As It Was", "artist": "Harry Styles", "streams": 95000 },
-      { "name": "Anti-Hero", "artist": "Taylor Swift", "streams": 92000 },
-      { "name": "Flowers", "artist": "Miley Cyrus", "streams": 88000 },
-      { "name": "Rich Flex", "artist": "Drake & 21 Savage", "streams": 83000 },
-      { "name": "Unholy", "artist": "Sam Smith & Kim Petras", "streams": 78000 }
-    ]
-  }
-]
+  "topSongsLast30Days": [
+    {
+      "date": "2024-09-27",
+      "songs": [
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 120000
+        },
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 115000
+        },
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 110000
+        },
+        {
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": 105000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 100000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-26",
+      "songs": [
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 118000
+        },
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 116000
+        },
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 112000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 108000
+        },
+        {
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": 104000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-25",
+      "songs": [
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 122000
+        },
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 117000
+        },
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 114000
+        },
+        {
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": 109000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 106000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-24",
+      "songs": [
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 119000
+        },
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 116000
+        },
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 113000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 107000
+        },
+        {
+          "name": "Lift Me Up",
+          "artist": "Rihanna",
+          "streams": 102000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-23",
+      "songs": [
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 121000
+        },
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 118000
+        },
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 114000
+        },
+        {
+          "name": "Lift Me Up",
+          "artist": "Rihanna",
+          "streams": 108000
+        },
+        {
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": 103000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-22",
+      "songs": [
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 120000
+        },
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 117000
+        },
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 113000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 106000
+        },
+        {
+          "name": "Lift Me Up",
+          "artist": "Rihanna",
+          "streams": 101000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-21",
+      "songs": [
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 119000
+        },
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 116000
+        },
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 112000
+        },
+        {
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": 107000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 102000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-20",
+      "songs": [
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 118000
+        },
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 115000
+        },
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 111000
+        },
+        {
+          "name": "Lift Me Up",
+          "artist": "Rihanna",
+          "streams": 106000
+        },
+        {
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": 101000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-19",
+      "songs": [
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 117000
+        },
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 114000
+        },
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 110000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 105000
+        },
+        {
+          "name": "Lift Me Up",
+          "artist": "Rihanna",
+          "streams": 100000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-18",
+      "songs": [
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 116000
+        },
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 113000
+        },
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 109000
+        },
+        {
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": 104000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 99000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-17",
+      "songs": [
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 115000
+        },
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 112000
+        },
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 108000
+        },
+        {
+          "name": "Lift Me Up",
+          "artist": "Rihanna",
+          "streams": 103000
+        },
+        {
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": 98000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-16",
+      "songs": [
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 114000
+        },
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 111000
+        },
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 107000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 102000
+        },
+        {
+          "name": "Lift Me Up",
+          "artist": "Rihanna",
+          "streams": 97000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-15",
+      "songs": [
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 113000
+        },
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 110000
+        },
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 106000
+        },
+        {
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": 101000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 96000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-14",
+      "songs": [
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 112000
+        },
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 109000
+        },
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 105000
+        },
+        {
+          "name": "Lift Me Up",
+          "artist": "Rihanna",
+          "streams": 100000
+        },
+        {
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": 95000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-13",
+      "songs": [
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 111000
+        },
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 108000
+        },
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 104000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 99000
+        },
+        {
+          "name": "Lift Me Up",
+          "artist": "Rihanna",
+          "streams": 94000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-12",
+      "songs": [
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 110000
+        },
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 107000
+        },
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 103000
+        },
+        {
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": 98000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 93000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-11",
+      "songs": [
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 109000
+        },
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 106000
+        },
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 102000
+        },
+        {
+          "name": "Lift Me Up",
+          "artist": "Rihanna",
+          "streams": 97000
+        },
+        {
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": 92000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-10",
+      "songs": [
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 108000
+        },
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 105000
+        },
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 101000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 96000
+        },
+        {
+          "name": "Lift Me Up",
+          "artist": "Rihanna",
+          "streams": 91000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-09",
+      "songs": [
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 107000
+        },
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 104000
+        },
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 100000
+        },
+        {
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": 95000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 90000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-08",
+      "songs": [
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 106000
+        },
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 103000
+        },
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 99000
+        },
+        {
+          "name": "Lift Me Up",
+          "artist": "Rihanna",
+          "streams": 94000
+        },
+        {
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": 89000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-07",
+      "songs": [
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 105000
+        },
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 102000
+        },
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 98000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 93000
+        },
+        {
+          "name": "Lift Me Up",
+          "artist": "Rihanna",
+          "streams": 88000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-06",
+      "songs": [
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 104000
+        },
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 101000
+        },
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 97000
+        },
+        {
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": 92000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 87000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-05",
+      "songs": [
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 103000
+        },
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 100000
+        },
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 96000
+        },
+        {
+          "name": "Lift Me Up",
+          "artist": "Rihanna",
+          "streams": 91000
+        },
+        {
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": 86000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-04",
+      "songs": [
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 102000
+        },
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 99000
+        },
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 95000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 90000
+        },
+        {
+          "name": "Lift Me Up",
+          "artist": "Rihanna",
+          "streams": 85000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-03",
+      "songs": [
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 101000
+        },
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 98000
+        },
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 94000
+        },
+        {
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": 89000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 84000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-02",
+      "songs": [
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 100000
+        },
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 97000
+        },
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 93000
+        },
+        {
+          "name": "Lift Me Up",
+          "artist": "Rihanna",
+          "streams": 88000
+        },
+        {
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": 83000
+        }
+      ]
+    },
+    {
+      "date": "2024-09-01",
+      "songs": [
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 99000
+        },
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 96000
+        },
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 92000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 87000
+        },
+        {
+          "name": "Lift Me Up",
+          "artist": "Rihanna",
+          "streams": 82000
+        }
+      ]
+    },
+    {
+      "date": "2024-08-31",
+      "songs": [
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 98000
+        },
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 95000
+        },
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 91000
+        },
+        {
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": 86000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 81000
+        }
+      ]
+    },
+    {
+      "date": "2024-08-30",
+      "songs": [
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 97000
+        },
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 94000
+        },
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 90000
+        },
+        {
+          "name": "Lift Me Up",
+          "artist": "Rihanna",
+          "streams": 85000
+        },
+        {
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": 80000
+        }
+      ]
+    },
+    {
+      "date": "2024-08-29",
+      "songs": [
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 96000
+        },
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 93000
+        },
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 89000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 84000
+        },
+        {
+          "name": "Lift Me Up",
+          "artist": "Rihanna",
+          "streams": 79000
+        }
+      ]
+    },
+    {
+      "date": "2024-08-28",
+      "songs": [
+        {
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": 95000
+        },
+        {
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": 92000
+        },
+        {
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": 88000
+        },
+        {
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": 83000
+        },
+        {
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": 78000
+        }
+      ]
+    }
+  ]
 }

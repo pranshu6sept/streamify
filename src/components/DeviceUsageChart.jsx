@@ -1,6 +1,6 @@
-import React from 'react';
-import PieChart from './PieChart';
-import data from '../data/data.json';
+import React from "react";
+import PieChart from "./PieChart";
+import data from "../data/data.json";
 
 const DeviceUsageChart = ({ onError }) => {
   return (
